@@ -1,3 +1,4 @@
+#local version
 from PIL import Image
 BG = Image.open("bg.png")
 sizeOfSheet =BG.width
